@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "newsbot-aiww",
+  "private_key_id": "e9dae9f8947b681a5af994fec6bd66f468c921e0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC5bp8jhs9nWEt8\n6jlPTdQlLeqlKeG+MPZabnYSzavYZWECV1uu68VqNF1mVfBUnkO1TyQBJGNkRYeU\nXVhIH5UkQKCSmaeCCoBzvchIcWcTseV/nH7ysU8wtfn/NCZI5GY230BaGjnGSI7K\n8jKIw2kQUpD50IFjdPYnBBKAUU+Nil6TPnx7a3fTIoy5jfjj5Uce6Qi83hAkDDFb\nALrScBymVJjLT5txiIqjb50OR2hZX/rViGAFCNuhtqTQy0AHVJ5pPYC7dc/ABzyi\nGW0QifyJPx37lBWPW2G2bmyHELFbxbilE67RMQb7pxRTT1xUNAXdChK1hqd7p1iW\nfdIsCc5HAgMBAAECggEAEFScB+6acMPc5LkNUlz3VE2RPvnLm2AH13pSRGD/7lnX\nS559QOVwsw6+NFdYiAs8Hp6ZUXnD6xPDLJ91OTzWz0+Fv1jFi3VN+g4lB67ntgX9\nFoT7b8zfvYQj6oQhjwUrtKTABRoO1oCTWsTZCyRdKgaA0A9l0GgqOXtpVGBU0jvO\niMn2dY0O6sC8b5VOW2wSrHsWwF37dHRqevA5rTaspX9Pfo/Qva0P9+oPeF3noL8R\n4urLOHingY+/8uEpQNRPT8F1kaihV9KzZq8kTJA1Imx4qsN9rDQJiwooyaimrdjq\nHbA+aIqh+tyRFcZBWHtJEJ3diZ4/mM3FP8rUaDG4+QKBgQDtVoAAIA7QNcfmL90L\n6KsWzRcSxfZFx+yFuWPXqZa3HuVTR/oTg60YNtMBu8VoVT3skeqFJ7yprX3e1qLQ\nGC42zcMTJdvWUKle5Yo5Se0s+T4ijfueAALrvjxcJJrsioiOVro6vUq57G6yNamz\nu5+ws/6LyBjIyiiKGfdoE+CWcwKBgQDIA0hnHijA/m6hnXhNZAhu9AzeQkaVizCO\nwWnSnFF4gVSV0LgaYYrxwKmV6CiNRX7cocQcsJBtpU23NXC+gFtX1DfLBP8h4ZAj\nudCcewZMqKruIEdLJR1GAQVCO4MTMwtIYZzpmO6aDUnrpPFww+aSSQrmNZL0obuw\nNizWv1Af3QKBgQDrvaeWeEE+fqz370LYuVp3Y28vroJX/aTpjqOla0XQzldqyWuU\nRo6AJrSgXCpQ35qKiMUxTa8Pusvzs640lFATD35cXpZl4ejZ4ZXSIaP7r/YPzIfJ\nAKnmDydVPubDXTcWav6/qZW35yhsyvCtHggYNDD6Ft7HUkXCJtigAF5sEQKBgBRM\nWP22Dta/O4UFUR8xhrWT6PZpbXZhwNTMBixMluwO3AG0Q+rReWNddRh0jiEAK4bC\nl/99X7rw6rksIDwFFMAOFndxE19h39nwUp5+0b3X5Dj0Z6fVpWnkUp9NINlC9eMr\nnNwMHDLgJF9YxvP1vaGc7hE84KQZAc45QUWt9ri1AoGBAJHux72baYn44RQ9xyhv\nZbJ19Amv6Trc+UJuCeGaGtmUWDlkTT/X9gxA55l7qStziF/fONOObCPDbrYTBp1r\nR0fbba8ndJY7VH+TJrEqOG4jslIUcIoJ82ZOGRFQj6KI92Fyhy6Ywade3aSAppBN\nUwz5DvlsckoqdII1pRjmGlQe\n-----END PRIVATE KEY-----\n",
+  "client_email": "pyoush-bot@newsbot-aiww.iam.gserviceaccount.com",
+  "client_id": "109551421222998988573",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pyoush-bot%40newsbot-aiww.iam.gserviceaccount.com",
+  "TOKEN":"5932748749:AAHjPNHq5mFFMFVKQgteVxTHDqboxVU9MkU"
+}

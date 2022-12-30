@@ -1,0 +1,4 @@
+# created by virtualenv automatically
+*bot/
+*__pycache__/
+bot/
