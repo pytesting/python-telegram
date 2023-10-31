@@ -4,6 +4,8 @@ from flask import Flask,request
 from telegram import Bot,Update,ReplyKeyboardMarkup
 from utils import get_reply,fetch_news,topics_keyboard
 import json
+from dotenv import load_dotenv
+load_dotenv()
 import os
 URL = os.environ.get('PUBLIC_URL')
 PORT = int(os.environ.get('PORT', 5000))
@@ -43,7 +45,7 @@ def _help(bot,update):
 def news(bot,update):
     bot.send_message(chat_id=update.message.chat_id,text="Choose a category",
                      reply_markup=ReplyKeyboardMarkup(keyboard=topics_keyboard,one_time_keyboard=True))
-    
+
 def reply_text(bot,update):
     intent,reply=get_reply(update.message.text,update.message.chat_id)
     if intent=="get_news":
@@ -58,7 +60,7 @@ def echo_sticker(bot,update):
 
 def error(bot,update):
     logger.error("Update '%s' caused error '%s'",update,update.error)
-    
+
 bot=Bot(TOKEN)
 updater = Updater(TOKEN, use_context=True)
 # updater.start_webhook(listen="0.0.0.0",
