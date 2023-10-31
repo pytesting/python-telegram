@@ -2,3 +2,5 @@
 *bot/
 *__pycache__/
 bot/
+venv
+.env
